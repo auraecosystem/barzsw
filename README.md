@@ -93,26 +93,27 @@ During the signature scheme update, the updating function should check the follo
 ## Project setup
 
 ### Install dependencies
-```
+```sh
 yarn
 ```
 
 ### Compile contracts
-```
+```zsh
 yarn compile
 ```
 
 ### Test contracts
-```
+
+```bash
 yarn test
 ```
 
 ### Check Contract size
-```
+```sh
 yarn size
 ```
 
 ### Foundry test
-```
+```zsh
 forge test
 ```
